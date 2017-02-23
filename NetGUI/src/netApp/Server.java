@@ -9,7 +9,7 @@ import java.util.ArrayList;
  * Server Class file. Used in operations for the server. Is also contained
  * within a {@link ServerThread}
  * 
- * @author Gixbit
+ * @author JCHollett
  *
  */
 public class Server extends Thread {

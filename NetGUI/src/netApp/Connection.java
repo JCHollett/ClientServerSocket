@@ -7,7 +7,7 @@ import java.util.Date;
 /**
  * Describes a connection made to the {@link Server} object
  * 
- * @author Gixbit
+ * @author JCHollett
  *
  */
 public class Connection extends Thread {

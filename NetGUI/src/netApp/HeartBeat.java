@@ -11,7 +11,7 @@ import java.util.Date;
  * @see ServerListener#pongEvent(SocketEvent)
  * @see ClientListener#pingEvent(GUIEvent)
  * @see Connection#timeout()
- * @author Gixbit */
+ * @author JCHollett */
 public class HeartBeat extends Thread {
 	/** The {@link ServerThread} object this {{@link Object} originated from */
 	private ServerThread server;

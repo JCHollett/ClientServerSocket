@@ -10,7 +10,7 @@ import java.net.InetAddress;
  * 
  * @see Client
  * 
- * @author Gixbit
+ * @author JCHollett
  *
  */
 public class ClientThread extends Thread {

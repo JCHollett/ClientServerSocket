@@ -8,7 +8,7 @@ import java.net.Socket;
  * Client Class file. Used in operations for the client. Is also contained
  * within a {@link ClientThread}.
  * 
- * @author Gixbit
+ * @author JCHollett
  *
  */
 public class Client extends Thread {

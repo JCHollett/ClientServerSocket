@@ -7,7 +7,7 @@ import java.io.IOException;
  * {@link Server} to do less specific and more general operations. Oversees the
  * {@link Server}.
  * 
- * @author Gixbit
+ * @author JCHollett
  *
  */
 public class ServerThread extends Thread {

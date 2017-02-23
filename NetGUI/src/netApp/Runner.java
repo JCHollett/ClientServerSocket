@@ -3,7 +3,7 @@ package netApp;
 /**
  * Main executable for the NETGui test program
  * 
- * @author Gixbit
+ * @author JCHollett
  *
  */
 public class Runner {

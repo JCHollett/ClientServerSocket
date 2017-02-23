@@ -7,7 +7,7 @@ import java.net.Socket;
  * {@link Socket} or {@link Server} {@link Connection} {@link Socket}s and
  * manipulating event data created in {@link Client} or {@link Server}
  * 
- * @author Gixbit
+ * @author JCHollett
  *
  */
 public class Listener {

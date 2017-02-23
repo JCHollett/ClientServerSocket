@@ -16,7 +16,7 @@ import javax.swing.JTextField;
 
 /** The main menu object
  * 
- * @author Gixbit */
+ * @author JCHollett */
 @SuppressWarnings({"javadoc" , "serial"})
 public class Menu extends JFrame implements ActionListener {
 	ImageIcon logoImg = new ImageIcon(getClass().getResource(""));

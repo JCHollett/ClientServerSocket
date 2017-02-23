@@ -17,7 +17,7 @@ import javax.swing.text.DefaultCaret;
 
 /** The DebugConsole for the {@link ServerThread}
  *
- * @author Gixbit */
+ * @author JCHollett */
 @SuppressWarnings({"serial" , "javadoc"})
 public class DebugConsole extends JFrame implements ActionListener {
 	private static JTextArea console = new JTextArea();

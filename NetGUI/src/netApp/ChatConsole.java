@@ -17,7 +17,7 @@ import javax.swing.text.DefaultCaret;
 
 /** Chat console for {@link Server} and {@link Client} {@link Thread}s.
  *
- * @author Gixbit */
+ * @author JCHollett */
 @SuppressWarnings("serial")
 public class ChatConsole extends JFrame implements ActionListener {
 	/** The area where messages from the {@link Server} and other {@link Client}s

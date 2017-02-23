@@ -7,7 +7,7 @@ import java.util.EventObject;
 /**
  * Interface for the ServerListener
  * 
- * @author Gixbit
+ * @author JCHollett
  *
  */
 interface ServerListener extends EventListener {
